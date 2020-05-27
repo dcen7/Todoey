@@ -15,6 +15,7 @@
 		EB2BE506239524DC00FB933B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB2BE504239524DC00FB933B /* LaunchScreen.storyboard */; };
 		FB4BFFC9247C4D2B00441E3E /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4BFFC8247C4D2B00441E3E /* Item.swift */; };
 		FB4BFFCB247C4D4100441E3E /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4BFFCA247C4D4100441E3E /* Category.swift */; };
+		FB9DEDA0247EC11A0019D9F5 /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9DED9F247EC11A0019D9F5 /* SwipeTableViewController.swift */; };
 		FBA4A08D247ACFF500238B2E /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA4A08C247ACFF500238B2E /* CategoryViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		EB2BE507239524DC00FB933B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB4BFFC8247C4D2B00441E3E /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		FB4BFFCA247C4D4100441E3E /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		FB9DED9F247EC11A0019D9F5 /* SwipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTableViewController.swift; sourceTree = "<group>"; };
 		FBA4A08C247ACFF500238B2E /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,6 +102,7 @@
 			children = (
 				FBA4A08C247ACFF500238B2E /* CategoryViewController.swift */,
 				EB2BE4FD239524DB00FB933B /* ToDoListViewController.swift */,
+				FB9DED9F247EC11A0019D9F5 /* SwipeTableViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				FBA4A08D247ACFF500238B2E /* CategoryViewController.swift in Sources */,
 				EB2BE4FE239524DB00FB933B /* ToDoListViewController.swift in Sources */,
 				EB2BE4FA239524DB00FB933B /* AppDelegate.swift in Sources */,
+				FB9DEDA0247EC11A0019D9F5 /* SwipeTableViewController.swift in Sources */,
 				FB4BFFCB247C4D4100441E3E /* Category.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
